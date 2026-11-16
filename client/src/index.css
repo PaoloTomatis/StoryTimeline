@@ -5,16 +5,13 @@
 @layer base {
 	body,
 	html {
-		font-family:
-			'Intro',
-			Arial,
-			Helvetica,
-			sans-serif;
+		font-family: 'Intro', Arial, Helvetica, sans-serif;
 		font-size: 16px;
 		box-sizing: border-box;
 		margin: 0;
 		padding: 0;
 		max-width: 100vw;
+		background-color: #f8fafc;
 	}
 	*,
 	*:before,
@@ -32,6 +29,7 @@
 	ul {
 		margin: 0;
 		padding: 0;
+		color: #17191c;
 	}
 	ol,
 	ul {
